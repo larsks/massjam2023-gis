@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <wpt lat="41.620998" lon="-70.535341">
+    <name>AC: Climbing Walls</name>
+    <type>activity</type>
+  </wpt>
+  <wpt lat="41.618572" lon="-70.534836">
+    <name>AC: Escape Room</name>
+    <type>activity</type>
+  </wpt>
+  <wpt lat="41.619515" lon="-70.533467">
+    <name>AC: Obstacle Course</name>
+    <type>activity</type>
+  </wpt>
+  <wpt lat="41.620863" lon="-70.534584">
+    <name>AC: Rockets</name>
+    <type>activity</type>
+  </wpt>
+  <wpt lat="41.618976" lon="-70.532133">
+    <name>AC: Shooting sports (archery &amp; tomahawks)</name>
+    <type>activity</type>
+  </wpt>
+  <wpt lat="41.620108" lon="-70.533827">
+    <name>AC: Sports Area</name>
+    <type>activity</type>
+  </wpt>
+  <wpt lat="41.61965" lon="-70.53444">
+    <name>Arena</name>
+    <type></type>
+  </wpt>
+  <wpt lat="41.618437" lon="-70.533755">
+    <name>Blacksmith</name>
+    <type></type>
+  </wpt>
+  <wpt lat="41.666599" lon="-70.602219">
+    <name>Cataumet Parking Lot</name>
+    <type>parking</type>
+  </wpt>
+  <wpt lat="41.61841" lon="-70.535161">
+    <name>Communications</name>
+    <type>communication</type>
+  </wpt>
+  <wpt lat="41.618815" lon="-70.534115">
+    <name>Exhibits 1</name>
+    <type>exhibits</type>
+  </wpt>
+  <wpt lat="41.619165" lon="-70.533286">
+    <name>Exhibits 2</name>
+    <type>exhibits</type>
+  </wpt>
+  <wpt lat="41.620728" lon="-70.534764">
+    <name>Grandstand</name>
+    <type></type>
+  </wpt>
+  <wpt lat="41.618276" lon="-70.533683">
+    <name>HQ/Admin/Lost &amp; Found</name>
+    <type>admin</type>
+  </wpt>
+  <wpt lat="41.618842" lon="-70.536675">
+    <name>Medical</name>
+    <type>medical</type>
+  </wpt>
+  <wpt lat="41.618518" lon="-70.533539">
+    <name>Physical Arrangements</name>
+    <type>admin</type>
+  </wpt>
+  <wpt lat="41.619192" lon="-70.53426">
+    <name>Snack Bar Tickets</name>
+    <type></type>
+  </wpt>
+  <wpt lat="41.618734" lon="-70.53444">
+    <name>Staff Dining</name>
+    <type>food</type>
+  </wpt>
+  <wpt lat="41.619327" lon="-70.535485">
+    <name>Subcamp Alpha HQ</name>
+    <type>campsite</type>
+  </wpt>
+  <wpt lat="41.620001" lon="-70.536206">
+    <name>Subcamp Bravo HQ</name>
+    <type>campsite</type>
+  </wpt>
+  <wpt lat="41.616093" lon="-70.530691">
+    <name>Subcamp Charlie HQ</name>
+    <type>campsite</type>
+  </wpt>
+  <wpt lat="41.619057" lon="-70.53599">
+    <name>Theme Show</name>
+    <type></type>
+  </wpt>
+  <wpt lat="41.618922" lon="-70.534043">
+    <name>Trading Post</name>
+    <type></type>
+  </wpt>
+  <wpt lat="41.620001" lon="-70.533431">
+    <name>Tranquility Base</name>
+    <type></type>
+  </wpt>
+</gpx>
